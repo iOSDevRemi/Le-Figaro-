@@ -1,0 +1,401 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		A406EBF421E4E9E70055D619 /* LeJourDeGloire1.mov in Resources */ = {isa = PBXBuildFile; fileRef = A406EBF321E4E9E70055D619 /* LeJourDeGloire1.mov */; };
+		A406EBF621E4E9ED0055D619 /* LesBleusDansLaLegende.mov in Resources */ = {isa = PBXBuildFile; fileRef = A406EBF521E4E9ED0055D619 /* LesBleusDansLaLegende.mov */; };
+		A406EBF821E4E9F20055D619 /* DidierDeschamp.mov in Resources */ = {isa = PBXBuildFile; fileRef = A406EBF721E4E9F20055D619 /* DidierDeschamp.mov */; };
+		A406EBFA21E4E9F70055D619 /* SuporterAuStade.mov in Resources */ = {isa = PBXBuildFile; fileRef = A406EBF921E4E9F70055D619 /* SuporterAuStade.mov */; };
+		A406EBFC21E4E9FD0055D619 /* SuporterNewYork.mov in Resources */ = {isa = PBXBuildFile; fileRef = A406EBFB21E4E9FD0055D619 /* SuporterNewYork.mov */; };
+		A406EBFE21E4EA050055D619 /* ChampsRempli.mov in Resources */ = {isa = PBXBuildFile; fileRef = A406EBFD21E4EA050055D619 /* ChampsRempli.mov */; };
+		A406EC0021E4EA110055D619 /* UneCoupeDuMondeReussie.mov in Resources */ = {isa = PBXBuildFile; fileRef = A406EBFF21E4EA110055D619 /* UneCoupeDuMondeReussie.mov */; };
+		A406EC0221E4EA1D0055D619 /* LaJoieALyon.mov in Resources */ = {isa = PBXBuildFile; fileRef = A406EC0121E4EA1D0055D619 /* LaJoieALyon.mov */; };
+		A406EC0421E4EA250055D619 /* breitlingPUB.mov in Resources */ = {isa = PBXBuildFile; fileRef = A406EC0321E4EA250055D619 /* breitlingPUB.mov */; };
+		A406EC0621E4EA2B0055D619 /* LidlPUB.mov in Resources */ = {isa = PBXBuildFile; fileRef = A406EC0521E4EA2B0055D619 /* LidlPUB.mov */; };
+		A406EC0821E4EA300055D619 /* AmazonPUB.mov in Resources */ = {isa = PBXBuildFile; fileRef = A406EC0721E4EA300055D619 /* AmazonPUB.mov */; };
+		A406EC0A21E4EA340055D619 /* LouisVuittonPUB.mov in Resources */ = {isa = PBXBuildFile; fileRef = A406EC0921E4EA340055D619 /* LouisVuittonPUB.mov */; };
+		A40FEF7721E299E000EF493A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A40FEF7621E299E000EF493A /* AppDelegate.swift */; };
+		A40FEF7921E299E000EF493A /* art.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = A40FEF7821E299E000EF493A /* art.scnassets */; };
+		A40FEF7B21E299E000EF493A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A40FEF7A21E299E000EF493A /* ViewController.swift */; };
+		A40FEF7E21E299E000EF493A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A40FEF7C21E299E000EF493A /* Main.storyboard */; };
+		A40FEF8021E299E100EF493A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A40FEF7F21E299E100EF493A /* Assets.xcassets */; };
+		A40FEF8321E299E100EF493A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A40FEF8121E299E100EF493A /* LaunchScreen.storyboard */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		A406EBF321E4E9E70055D619 /* LeJourDeGloire1.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = LeJourDeGloire1.mov; sourceTree = "<group>"; };
+		A406EBF521E4E9ED0055D619 /* LesBleusDansLaLegende.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = LesBleusDansLaLegende.mov; sourceTree = "<group>"; };
+		A406EBF721E4E9F20055D619 /* DidierDeschamp.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = DidierDeschamp.mov; sourceTree = "<group>"; };
+		A406EBF921E4E9F70055D619 /* SuporterAuStade.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = SuporterAuStade.mov; sourceTree = "<group>"; };
+		A406EBFB21E4E9FD0055D619 /* SuporterNewYork.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = SuporterNewYork.mov; sourceTree = "<group>"; };
+		A406EBFD21E4EA050055D619 /* ChampsRempli.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = ChampsRempli.mov; sourceTree = "<group>"; };
+		A406EBFF21E4EA110055D619 /* UneCoupeDuMondeReussie.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = UneCoupeDuMondeReussie.mov; sourceTree = "<group>"; };
+		A406EC0121E4EA1D0055D619 /* LaJoieALyon.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = LaJoieALyon.mov; sourceTree = "<group>"; };
+		A406EC0321E4EA250055D619 /* breitlingPUB.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = breitlingPUB.mov; sourceTree = "<group>"; };
+		A406EC0521E4EA2B0055D619 /* LidlPUB.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = LidlPUB.mov; sourceTree = "<group>"; };
+		A406EC0721E4EA300055D619 /* AmazonPUB.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = AmazonPUB.mov; sourceTree = "<group>"; };
+		A406EC0921E4EA340055D619 /* LouisVuittonPUB.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = LouisVuittonPUB.mov; sourceTree = "<group>"; };
+		A40FEF7321E299E000EF493A /* maltabook.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = maltabook.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A40FEF7621E299E000EF493A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		A40FEF7821E299E000EF493A /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
+		A40FEF7A21E299E000EF493A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		A40FEF7D21E299E000EF493A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		A40FEF7F21E299E100EF493A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		A40FEF8221E299E100EF493A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		A40FEF8421E299E100EF493A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		A40FEF7021E299E000EF493A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		A40FEF6A21E299E000EF493A = {
+			isa = PBXGroup;
+			children = (
+				A40FEF7521E299E000EF493A /* maltabook */,
+				A40FEF7421E299E000EF493A /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		A40FEF7421E299E000EF493A /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				A40FEF7321E299E000EF493A /* maltabook.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		A40FEF7521E299E000EF493A /* maltabook */ = {
+			isa = PBXGroup;
+			children = (
+				A40FEF8A21E29A0800EF493A /* Movies */,
+				A40FEF7621E299E000EF493A /* AppDelegate.swift */,
+				A40FEF7821E299E000EF493A /* art.scnassets */,
+				A40FEF7A21E299E000EF493A /* ViewController.swift */,
+				A40FEF7C21E299E000EF493A /* Main.storyboard */,
+				A40FEF7F21E299E100EF493A /* Assets.xcassets */,
+				A40FEF8121E299E100EF493A /* LaunchScreen.storyboard */,
+				A40FEF8421E299E100EF493A /* Info.plist */,
+			);
+			path = maltabook;
+			sourceTree = "<group>";
+		};
+		A40FEF8A21E29A0800EF493A /* Movies */ = {
+			isa = PBXGroup;
+			children = (
+				A406EBF321E4E9E70055D619 /* LeJourDeGloire1.mov */,
+				A406EBF521E4E9ED0055D619 /* LesBleusDansLaLegende.mov */,
+				A406EBF721E4E9F20055D619 /* DidierDeschamp.mov */,
+				A406EBF921E4E9F70055D619 /* SuporterAuStade.mov */,
+				A406EBFB21E4E9FD0055D619 /* SuporterNewYork.mov */,
+				A406EBFD21E4EA050055D619 /* ChampsRempli.mov */,
+				A406EBFF21E4EA110055D619 /* UneCoupeDuMondeReussie.mov */,
+				A406EC0121E4EA1D0055D619 /* LaJoieALyon.mov */,
+				A406EC0321E4EA250055D619 /* breitlingPUB.mov */,
+				A406EC0521E4EA2B0055D619 /* LidlPUB.mov */,
+				A406EC0721E4EA300055D619 /* AmazonPUB.mov */,
+				A406EC0921E4EA340055D619 /* LouisVuittonPUB.mov */,
+			);
+			path = Movies;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		A40FEF7221E299E000EF493A /* maltabook */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A40FEF8721E299E100EF493A /* Build configuration list for PBXNativeTarget "maltabook" */;
+			buildPhases = (
+				A40FEF6F21E299E000EF493A /* Sources */,
+				A40FEF7021E299E000EF493A /* Frameworks */,
+				A40FEF7121E299E000EF493A /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = maltabook;
+			productName = maltabook;
+			productReference = A40FEF7321E299E000EF493A /* maltabook.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		A40FEF6B21E299E000EF493A /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1010;
+				LastUpgradeCheck = 1010;
+				ORGANIZATIONNAME = daniel.d4;
+				TargetAttributes = {
+					A40FEF7221E299E000EF493A = {
+						CreatedOnToolsVersion = 10.1;
+					};
+				};
+			};
+			buildConfigurationList = A40FEF6E21E299E000EF493A /* Build configuration list for PBXProject "maltabook" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = A40FEF6A21E299E000EF493A;
+			productRefGroup = A40FEF7421E299E000EF493A /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				A40FEF7221E299E000EF493A /* maltabook */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		A40FEF7121E299E000EF493A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A406EC0421E4EA250055D619 /* breitlingPUB.mov in Resources */,
+				A40FEF7921E299E000EF493A /* art.scnassets in Resources */,
+				A406EC0821E4EA300055D619 /* AmazonPUB.mov in Resources */,
+				A406EBF421E4E9E70055D619 /* LeJourDeGloire1.mov in Resources */,
+				A406EC0221E4EA1D0055D619 /* LaJoieALyon.mov in Resources */,
+				A40FEF8321E299E100EF493A /* LaunchScreen.storyboard in Resources */,
+				A406EBF821E4E9F20055D619 /* DidierDeschamp.mov in Resources */,
+				A406EBF621E4E9ED0055D619 /* LesBleusDansLaLegende.mov in Resources */,
+				A406EC0621E4EA2B0055D619 /* LidlPUB.mov in Resources */,
+				A406EBFE21E4EA050055D619 /* ChampsRempli.mov in Resources */,
+				A40FEF8021E299E100EF493A /* Assets.xcassets in Resources */,
+				A406EBFC21E4E9FD0055D619 /* SuporterNewYork.mov in Resources */,
+				A406EC0021E4EA110055D619 /* UneCoupeDuMondeReussie.mov in Resources */,
+				A406EBFA21E4E9F70055D619 /* SuporterAuStade.mov in Resources */,
+				A40FEF7E21E299E000EF493A /* Main.storyboard in Resources */,
+				A406EC0A21E4EA340055D619 /* LouisVuittonPUB.mov in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		A40FEF6F21E299E000EF493A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A40FEF7B21E299E000EF493A /* ViewController.swift in Sources */,
+				A40FEF7721E299E000EF493A /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		A40FEF7C21E299E000EF493A /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				A40FEF7D21E299E000EF493A /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		A40FEF8121E299E100EF493A /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				A40FEF8221E299E100EF493A /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		A40FEF8521E299E100EF493A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		A40FEF8621E299E100EF493A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		A40FEF8821E299E100EF493A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = NDZY5YDWF3;
+				INFOPLIST_FILE = maltabook/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.dainello.maltabook;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		A40FEF8921E299E100EF493A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = NDZY5YDWF3;
+				INFOPLIST_FILE = maltabook/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.dainello.maltabook;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		A40FEF6E21E299E000EF493A /* Build configuration list for PBXProject "maltabook" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A40FEF8521E299E100EF493A /* Debug */,
+				A40FEF8621E299E100EF493A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A40FEF8721E299E100EF493A /* Build configuration list for PBXNativeTarget "maltabook" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A40FEF8821E299E100EF493A /* Debug */,
+				A40FEF8921E299E100EF493A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = A40FEF6B21E299E000EF493A /* Project object */;
+}
